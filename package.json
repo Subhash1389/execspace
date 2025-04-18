@@ -1,0 +1,13 @@
+{
+    "name": "web-scraper",
+    "version": "1.0.0",
+    "description": "Scrapes a URL and extracts content using Puppeteer.",
+    "main": "scrape.js",
+    "scripts": {
+      "start": "node scrape.js"
+    },
+    "dependencies": {
+      "puppeteer": "^24.6.1"
+    }
+  }
+  
